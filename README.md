@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I am Jovana Dobreva, a data scientist and research
 
 - **Research and Teaching Assistant** at [Faculty of Computer Science & Engineering, Ss. Cyril and Methodius University](https://finki.ukim.mk/)
 - **Head of the New Students and Career Center** at [Faculty of Computer Science & Engineering](https://finki.ukim.mk/)
+- **Senior Data Scientist** at MagixAI
 - **Ph.D. Candidate** in Computer Science
 
 ## 👩‍💻 Experience
