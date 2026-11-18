@@ -1,59 +1,88 @@
 # Hi, I'm Jovana Dobreva 👋
 
-### Data Scientist | PhD Candidate | Research and Teaching Assistant
+### Data Scientist | Machine Learning, Generative AI & RAG | PhD Researcher
 
-Welcome to my GitHub profile! I am Jovana Dobreva, a data scientist and researcher specializing in **Natural Language Processing (NLP)**, **Machine Learning**, **Data Analytics**, and **Artificial Intelligence**. I am currently pursuing a Ph.D. in Computer Science and Engineering at Ss. Cyril and Methodius University in Skopje, North Macedonia.
+I'm a data scientist and PhD researcher based in **Copenhagen, Denmark**, working where commercial delivery meets advanced research. Across four industry roles I have taken **machine learning, NLP and generative AI** solutions from problem framing to production. My research focuses on **healthcare AI**: knowledge graph enhanced retrieval (Graph-RAG) that reduces LLM hallucination in clinical question answering, health-data standards like **OMOP**, and AI that is compliant with the **EU AI Act**.
 
-## 🔭 Current Roles
+## 🔭 Currently
 
-- **Research and Teaching Assistant** at [Faculty of Computer Science & Engineering, Ss. Cyril and Methodius University](https://finki.ukim.mk/)
-- **Head of the New Students and Career Center** at [Faculty of Computer Science & Engineering](https://finki.ukim.mk/)
-- **Senior Data Scientist** at MagixAI
-- **Ph.D. Candidate** in Computer Science
+- **Research Assistant & Lecturer** at [Aalborg University](https://www.aau.dk/), Denmark (Sep 2025 - present)
+  - Building the ETL and data modeling pipeline that maps the Danish national health registries to the OMOP Common Data Model ([repo](https://github.com/ohdsi-denmark/danish_medical_vocabularies_to_OMOP), [preprint](https://preprints.jmir.org/preprint/93317))
+  - Lecturer of *Web Information Processing* (semantic web), a 1st-year MSc course with 70+ students
+- **PhD in Computer Science** at Ss. Cyril and Methodius University, Skopje (2023 - 2026, defending December 2026)
+
+## ⭐ Highlights
+
+- 🧠 PhD thesis: a **Graph-RAG platform** that measurably reduces LLM hallucination in clinical QA ([AlzRAG](https://github.com/ChatMED/AlzRAG)), released with the open [RAGCare-QA benchmark](https://huggingface.co/datasets/ChatMED-Project/RAGCare-QA)
+- 🏥 Harmonized the Danish national health registries into the **OMOP CDM**
+- 📚 **25+ peer-reviewed publications** (JMIR, Pharmacological Reviews, Elsevier, Springer, IEEE)
+- 🏅 **Golden Coin** for Best Graduated Student and a **Top-15 national PhD scholarship** for academic excellence
 
 ## 👩‍💻 Experience
 
-- **Data Scientist** at [City Falcon, London, UK](https://www.cityfalcon.com) (Jun 2022 - Aug 2023)
-  - Developed customized multilingual Named Entity Recognition (NER) models for extracting financial entities.
-  - Created a novel AI-powered company sector classification architecture.
-  - Worked on chatbot development using Langchain architecture and LLM technology.
-  
-- **Data Scientist** at Alkira Consulting, UAE (Jun 2021 - Mar 2022)
-  - Developed predictive models to forecast visitor attendance for Dubai EXPO 2020.
-  
-- **Laboratory Assistant** at [Faculty of Computer Science & Engineering](https://finki.ukim.mk/) (May 2019 - Sep 2020)
+| Role | Company | Period | Focus |
+|---|---|---|---|
+| Research Assistant & Lecturer | Aalborg University, Denmark | 2025 - present | OMOP data modeling & ETL on Danish health registries |
+| Data Scientist | Attercop, UK | 2024 - 2025 | RAG / Graph-RAG pipelines on AWS, retrieval & recommendation |
+| Data Engineer | Magix.AI, North Macedonia | 2024 | Data ingestion & RAG pipelines on Google Cloud, LLM workflows (Autogen, LangChain) |
+| Data Scientist | [CityFalcon](https://www.cityfalcon.com), UK | 2022 - 2023 | Multilingual financial NER, AI-powered Dynamic Company Sector Classification |
+| Data Scientist | Alkira Consulting, UAE | 2021 - 2022 | Analytics & forecasting models for Dubai EXPO 2020 visitor attendance |
+| Research & Teaching Assistant | [FCSE](https://finki.ukim.mk/), Skopje | 2019 - 2025 | Taught Data Science, Probability & Statistics (R) and core CS courses to 400+ students; Head of the New Students & Career Center |
+
+## 🔬 Research Projects
+
+- **ARISTOTELES** (Horizon Europe): AI for personalized risk assessment and clinical interventions
+- **ChatMED** (Horizon Europe): adoption of generative AI in the health sector
+- **EuroCC / EuroCC2**: National Competence Centers for HPC, digital skills and industry
+
+## 🛠 Skills & Tech Stack
+
+- **Machine Learning & AI:** PyTorch, Hugging Face Transformers, scikit-learn, NLP & LLMs, forecasting, clustering & classification
+- **Generative AI & RAG:** RAG / Graph-RAG, vector databases, embeddings, knowledge graphs, LangChain, Autogen
+- **Programming & Analytics:** Python, R, SQL, pandas, NumPy, statistics & experimentation, Java
+- **GitOps & Deployment:** Git, version-controlled workflows, CI/CD, Docker
+- **Cloud & Data:** Google Cloud, AWS, ETL/ELT design, data modeling (OMOP), data quality, data lakes & warehouses
+- **Domain & Compliance:** OMOP, UMLS, SNOMED-CT, data governance, EU AI Act
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+
+## 📚 Selected Publications
+
+- **Mapping the Danish National Health Registries to the OMOP Common Data Model**, JMIR (preprint), 2026
+- **RAGCare-QA: A benchmark dataset for evaluating RAG pipelines in theoretical medical knowledge**, Data in Brief (Elsevier), 2025
+- **AI Act Compliance within the MyHealth@EU Framework: Tutorial**, Journal of Medical Internet Research, 2025
+- **A Unified Framework for Alzheimer's Disease Knowledge Graphs**, Brain Sciences (MDPI), 2025
+- **Evaluation of Vector Databases and LLMs in RAG-Based Multi-document QA**, ICT Innovations (Springer), 2024
+- **Review of Natural Language Processing in Pharmacology**, Pharmacological Reviews, 2023
+- **MACEDONIZER: The Macedonian Transformer Language Model**, ICT Innovations (Springer), 2022
+
+Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=09jdLfoAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## 🎓 Education
 
-- **Ph.D. in Computer Science** (2023 - Ongoing), Faculty of Computer Science & Engineering, Ss. Cyril and Methodius University
-- **M.Sc. in Computer Science** (2020 - 2022), Faculty of Computer Science & Engineering, Ss. Cyril and Methodius University
-- **B.Sc. in Computer Science** (2016 - 2020), Faculty of Computer Science & Engineering, Ss. Cyril and Methodius University
+- **PhD in Computer Science**, Ss. Cyril and Methodius University (2023 - 2026, defending December 2026)
+- **MSc in Computer Science**, Ss. Cyril and Methodius University (GPA 10.00 / 10)
+- **BSc in Computer Science**, Ss. Cyril and Methodius University (GPA 9.75 / 10, Best Graduate)
 
-## 🏆 Honors & Awards
+## 🌍 Languages
 
-- **Engineering Ring** (2021), Engineering Institution of Macedonia
-- **Golden Coin** (2021), Ss. Cyril and Methodius University for being the best graduated student.
+English (working proficiency) · Macedonian (native) · Danish (elementary)
 
-## 🛠 Skills
+## 📫 Get in touch
 
-- **Data Science**: Machine Learning, Data Analysis, Data Exploration, Data Wrangling, Data Visualization
-- **Natural Language Processing**: Text Summarization, Named Entity Recognition, Language Models
-- **Artificial Intelligence**: Deep Learning, AI-driven applications
-- **Programming Languages**: Python, Java, SQL, C++, C, JavaScript
-
-## 📚 Publications
-
-- **Assessing the Environmental Impact of Plant-Based Diets**: Presented at IEEE Big Data 2023.
-- **Methodology for Food Prices Forecasting**: IEEE Big Data 2023.
-- **RoBERTa for URL Classification**: IEEE TELFOR 2023.
-- For a full list of publications, [click here](https://ieeexplore.ieee.org/).
-
-## 📫 How to reach me:
-
-- **Email**: [jovana.dobreva@finki.ukim.mk](mailto:jovana.dobreva@finki.ukim.mk)
-- **LinkedIn**: [linkedin.com/in/jovana-dobreva](https://www.linkedin.com/in/jovana-dobreva-47b063160/)
-- **Website**: [finki.ukim.mk](https://finki.ukim.mk/mk/content/%D1%98%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0-%D0%B4%D0%BE%D0%B1%D1%80%D0%B5%D0%B2%D0%B0-0)
+- **LinkedIn:** [linkedin.com/in/jovana-dobreva](https://www.linkedin.com/in/jovana-dobreva-47b063160/)
+- **Google Scholar:** [Jovana Dobreva](https://scholar.google.com/citations?hl=en&user=09jdLfoAAAAJ)
+- **Email:** [jdo@cs.aau.dk](mailto:jdo@cs.aau.dk)
 
 ---
 
-Feel free to explore my repositories for exciting projects in **Data Science** and **NLP**!
+Feel free to explore my repositories for projects in **NLP, RAG, knowledge graphs and healthcare AI**!
