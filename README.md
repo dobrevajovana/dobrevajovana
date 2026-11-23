@@ -40,7 +40,8 @@ I'm a data scientist and PhD researcher based in **Copenhagen, Denmark**, workin
 - **Machine Learning & AI:** PyTorch, Hugging Face Transformers, scikit-learn, NLP & LLMs, forecasting, clustering & classification
 - **Generative AI & RAG:** RAG / Graph-RAG, vector databases, embeddings, knowledge graphs, LangChain, Autogen
 - **Programming & Analytics:** Python, R, SQL, pandas, NumPy, statistics & experimentation, Java
-- **GitOps & Deployment:** Git, version-controlled workflows, CI/CD, Docker
+- **MLOps & Deployment:** MLflow, model registries, production deployment, monitoring
+- **GitOps:** Git, version-controlled workflows, CI/CD, Docker
 - **Cloud & Data:** Google Cloud, AWS, ETL/ELT design, data modeling (OMOP), data quality, data lakes & warehouses
 - **Domain & Compliance:** OMOP, UMLS, SNOMED-CT, data governance, EU AI Act
 
@@ -51,6 +52,7 @@ I'm a data scientist and PhD researcher based in **Copenhagen, Denmark**, workin
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
